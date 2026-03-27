@@ -6,12 +6,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [
-    Component.ChatWidget({
-      wiki: "hormozi",
-      apiUrl: "https://api-production-4224.up.railway.app",
-    }),
-  ],
+  afterBody: [],
   footer: Component.Footer({
     links: {
       "Creative Intelligence Agency": "https://creativeintel.agency",
@@ -25,10 +20,6 @@ export const sharedPageComponents: SharedLayout = {
 
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.ChatBanner({
-      label: "Ask Hormozi",
-      description: "Chat with an AI trained on 103 episodes of offers, leads, and sales",
-    }),
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
