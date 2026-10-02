@@ -105,7 +105,7 @@ The organizer was a man who made his fortune in ultra high-end jewelry:
 
 **The overlooked revenue insight:**
 
-> "If I were to sell a day of my time for five people at $20,000 each — sure. But what I'm missing is the number one and number two people of those five might have been willing to pay $200,000 for that day."
+> "If I were to sell a day of my time for five people at \$20,000 each — sure. But what I'm missing is the number one and number two people of those five might have been willing to pay \$200,000 for that day."
 > — Alex Hormozi, "How To Charge Exorbitant Prices"
 
 Most entrepreneurs underprice because they never test the top of the demand curve. They set one price and sell until they fill up. They never learn that their best customers would have paid 10x.
